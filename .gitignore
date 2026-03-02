@@ -1,0 +1,11 @@
+# SolidWorks temporary files
+~$*.*
+*.swp
+*.erx
+*.bak
+*.sldlfp
+*.sprt
+*.sasm
+*.sdrw
+# Windows thumbnails
+Thumbs.db
